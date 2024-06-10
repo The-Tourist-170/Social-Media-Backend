@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ToddleApplication<toddle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tourist.toddle.ToddleApplication",
+            "projectName": "toddle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
